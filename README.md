@@ -9,6 +9,6 @@
 
 Мы договорились, что будем изучать двух- и трехкомнтатыне квартиры, не более 10 минут до метро пешком. Ищущие квартиру ребята дали список станций метро, рядом с которыми хотели бы жить 
 
-Файл [Parsing] (https://github.com/sofsama/sofsama/blob/main/Parsing.ipynb) код, который собирает данные
+Файл [Parsing](https://github.com/sofsama/sofsama/blob/main/Parsing.ipynb) код, который собирает данные
 
-В файле [cian_data] (https://github.com/sofsama/sofsama/blob/main/cian_data.xlsx) необработанные данные
+В файле [cian_data](https://github.com/sofsama/sofsama/blob/main/cian_data.xlsx) необработанные данные
